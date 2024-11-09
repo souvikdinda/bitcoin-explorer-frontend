@@ -2,7 +2,7 @@
 
 ### Summary
 ------------------------------------------------------------------------
-**_This project provides Bitcoin Explorer that shows some of the important on-chain and off-chain metrics of Bitcoin Blockchain._**
+**_This project provides Bitcoin Explorer that shows some of the important on-chain and off-chain metrics of Bitcoin Blockchain_**
 
 ### To run this application:
 ------------------------------------------------------------------------
